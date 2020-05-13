@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Zad_3_Widoki</string>
+    <string name="volleyball_title">Piłka siatkowa</string>
+    <string name="volleyball_description">Najlepszy sport świata</string>
+    <string name="football_title">Piłka nożna</string>
+    <string name="football_description">Najgorszy sport świata</string>
+    <string name="prefer_volleyball">Wole siatkówkę</string>
+    <string name="prefer_football">Wole piłkę nożną</string>
+    <string name="go_further">Przejdź dalej</string>
+    <string name="title_constraint_view">Widok z ograniczeniami</string>
+    <string name="fjords_description">Fjordy</string>
+    <string name="cold_waves_description">Mroźne fale</string>
+    <string name="display_toast">Informacje o autorze</string>
+    <string name="io_yes">Czy reprezentacja Polski kiedykolwiek wygrała na igrzyskach?</string>
+    <string name="kurek_yes">Czy obecnym klubem Bartosza Kurka jest Monza?</string>
+    <string name="ngapeth_yes">Czy Earvin Ngapeth jest Serbem?</string>
+    <string name="send_quiz">Wyślij</string>
+</resources>

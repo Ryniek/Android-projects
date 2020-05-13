@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FrameLayoutActivity">
+
+    <ImageView
+        android:id="@+id/background_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/pilka"/>
+    <ToggleButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_gravity="center"
+        android:textOn="@string/prefer_volleyball"
+        android:textOff="@string/prefer_football"
+        android:onClick="onToggleButtonCliicked"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/button_image"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:onClick="goConstraint"/>
+
+        <CheckBox
+            android:id="@+id/checkbox_io"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/io_yes" />
+
+        <CheckBox
+            android:id="@+id/checkbox_kurek_monza"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="@string/kurek_yes" />
+
+        <CheckBox
+            android:id="@+id/checkbox_nationality_ngapeth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:text="@string/ngapeth_yes" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/send_quiz"
+            android:onClick="checkQuiz"
+            android:layout_marginTop="90dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="bottom|end"
+        android:gravity="start"
+        android:padding="16dp">
+
+
+        <TextView
+            android:id="@+id/sport_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="@string/volleyball_title"/>
+
+        <TextView
+            android:id="@+id/sport_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="@string/volleyball_description"/>
+    </LinearLayout>
+
+</FrameLayout>

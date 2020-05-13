@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zad2_Aktywnosci</string>
+    <string name="hint">Wpisz wiadomość</string>
+    <string name="send">Wyślij wiadomość</string>
+    <string name="display">Wyświetl wszystkie wiadomości</string>
+    <string name="lack">Brak wiadomości</string>
+</resources>

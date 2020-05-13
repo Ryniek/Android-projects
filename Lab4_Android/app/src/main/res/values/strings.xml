@@ -1,0 +1,19 @@
+<resources>
+    <string name="website_info">Info o stronie</string>
+    <string name="app_description">Aplikacja 3-poziomowa z widokami list, adapterami do pobrania danych statycznych
+        oraz paskiem narzędzi.
+    </string>
+    <string name="app_name">Michu lab4</string>
+    <string name="ru_team_label">SuperLiga</string>
+    <string name="it_team_label">SerieA1</string>
+    <string name="pl_team_label">PlusLiga</string>
+    <string name="info_label">Info</string>
+    <string name="main_logo_desc">Plusliga</string>
+    <string name="players">Zawodnicy</string>
+    <string name="action_label">Wykonaj akcje</string>
+    <string-array name="options">
+        <item>LIGA POLSKA</item>
+        <item>LIGA WŁOSKA</item>
+        <item>LIGA ROSYJSKA</item>
+    </string-array>
+</resources>
