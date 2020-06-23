@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab8_Android_part2</string>
+    <string name="permission_denied">Odmowa dostepu do lokalizacji</string>
+</resources>
