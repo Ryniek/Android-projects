@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zad5_Fragmenty</string>
+    <string name="details_button">Pokaż szczegóły</string>
+    <string name="title">Nazwa języka</string>
+    <string name="description">Opis języka</string>
+    <string name="like_language">Czy lubisz ten język</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="confirm">Zatwierdz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

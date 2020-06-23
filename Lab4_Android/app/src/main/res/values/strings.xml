@@ -11,6 +11,8 @@
     <string name="main_logo_desc">Plusliga</string>
     <string name="players">Zawodnicy</string>
     <string name="action_label">Wykonaj akcje</string>
+    <string name="favourite">Ulubiony</string>
+    <string name="favourite_teams">Ulubione drużyny</string>
     <string-array name="options">
         <item>LIGA POLSKA</item>
         <item>LIGA WŁOSKA</item>
